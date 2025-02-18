@@ -54,7 +54,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'New portfolio on Nuxt.js',
 		image: null,
 		href: 'https://sk-dev-app.vercel.app/',
-		source: 'https://github.com/kraiviks/sk-dev-frontend',
+		source: 'https://github.com/serhii-kostiv/sk-dev-frontend',
 		technologies: [
 			'TypeScript',
 			'React',
@@ -78,8 +78,8 @@ export const PERSONAL_PROJECTS = [
 		title: 'Old portfolio',
 		description: 'New portfolio on PUG',
 		image: null,
-		href: 'https://kraiviks.github.io/',
-		source: 'https://github.com/kraiviks/kraiviks.github.io',
+		href: 'https://serhii-kostiv.github.io/',
+		source: 'https://github.com/serhii-kostiv/serhii-kostiv.github.io',
 		technologies: ['JavaScript', 'HTML', 'SASS', 'PUG', 'webpack'],
 	},
 
@@ -88,7 +88,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'Simple Nuxt App With animations',
 		image: null,
 		href: 'https://nuxt-animated-app.vercel.app/',
-		source: 'https://github.com/kraiviks/nuxt-animated-app',
+		source: 'https://github.com/serhii-kostiv/nuxt-animated-app',
 		technologies: [
 			'TypeScript',
 			'Vue',
@@ -104,7 +104,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'Simple nuxt-mini-trello app on nuxt.js',
 		image: null,
 		href: 'https://nuxt-mini-trello.vercel.app/',
-		source: 'https://github.com/kraiviks/nuxt-mini-trello',
+		source: 'https://github.com/serhii-kostiv/nuxt-mini-trello',
 		technologies: [
 			'TypeScript',
 			'Vue',
@@ -125,7 +125,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'Simple store on Vue',
 		image: null,
 		href: 'https://k-vue-store.vercel.app/',
-		source: 'https://github.com/kraiviks/k-vue-store',
+		source: 'https://github.com/serhii-kostiv/k-vue-store',
 		technologies: [
 			'JavaScript',
 			'Vue',
@@ -140,7 +140,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'Game Marketplace on React',
 		image: null,
 		href: 'https://k-casino.vercel.app/',
-		source: 'https://github.com/kraiviks/k-casino',
+		source: 'https://github.com/serhii-kostiv/k-casino',
 		technologies: [
 			'TypeScript',
 			'React',
@@ -156,7 +156,7 @@ export const PERSONAL_PROJECTS = [
 		description: 'Simple landing page on React',
 		image: null,
 		href: 'https://mtc-home-kitchens.vercel.app/',
-		source: 'https://github.com/kraiviks/mtc-home-kitchens',
+		source: 'https://github.com/serhii-kostiv/mtc-home-kitchens',
 		technologies: [
 			'React',
 			'swiper',
@@ -171,9 +171,9 @@ export const PERSONAL_PROJECTS = [
 		title: 'simple-dashboard-customers',
 		description: 'Simple CRM Dashboard Customers on PUG',
 		image: null,
-		href: 'https://kraiviks.github.io/crm-dashboard-customers/',
+		href: 'https://serhii-kostiv.github.io/crm-dashboard-customers/',
 		source:
-			'https://github.com/kraiviks/crm-dashboard-customers?tab=readme-ov-file',
+			'https://github.com/serhii-kostiv/crm-dashboard-customers?tab=readme-ov-file',
 		technologies: ['pug', 'sass', 'webpack', 'js', 'gh-pages'],
 	},
 ];
